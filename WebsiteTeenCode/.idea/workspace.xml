@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7eebbfba-7d59-4968-ac0e-fc5e10a46aae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hq1IPQk5edZfQHebDDjEBgVz2e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Teen Code\testerbootstap\images" />
+      <recent name="H:\Teen Code\testerbootstap\svg" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Teen Code\testerbootstap\images" />
+      <recent name="H:\Teen Code\testerbootstap" />
+      <recent name="H:\Webstorm Project\testerbootstap" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$/../../JavaScript Project">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
+        <profiling log-folder="H:\WebStorm 2020.2\jbr\bin\." />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/../../node_modules/npm/package.json" />
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <package-manager value="H:\node_modules" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7eebbfba-7d59-4968-ac0e-fc5e10a46aae" name="Default Changelist" comment="" />
+      <created>1600723728080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600723728080</updated>
+      <workItem from="1600723730505" duration="68000" />
+      <workItem from="1600726871234" duration="424000" />
+      <workItem from="1600727304657" duration="179000" />
+      <workItem from="1601332287311" duration="443000" />
+      <workItem from="1601933395929" duration="673000" />
+      <workItem from="1601934201817" duration="899000" />
+      <workItem from="1601935111810" duration="1799000" />
+      <workItem from="1601936920954" duration="200000" />
+      <workItem from="1602536990056" duration="443000" />
+      <workItem from="1602537543919" duration="1203000" />
+      <workItem from="1603142827372" duration="1775000" />
+      <workItem from="1603144623789" duration="1825000" />
+      <workItem from="1603146459641" duration="460000" />
+      <workItem from="1603397115813" duration="561000" />
+      <workItem from="1603551520850" duration="57000" />
+      <workItem from="1603553281260" duration="613000" />
+      <workItem from="1603746692022" duration="599000" />
+      <workItem from="1603748601948" duration="1803000" />
+      <workItem from="1603750419500" duration="1229000" />
+      <workItem from="1603752451460" duration="44000" />
+      <workItem from="1604152424505" duration="15000" />
+      <workItem from="1604286007167" duration="1862000" />
+      <workItem from="1604287943292" duration="955000" />
+      <workItem from="1604344965502" duration="2031000" />
+      <workItem from="1604347334026" duration="1937000" />
+      <workItem from="1604353689828" duration="1689000" />
+      <workItem from="1604355633885" duration="725000" />
+      <workItem from="1604527902315" duration="1927000" />
+      <workItem from="1604529873155" duration="305000" />
+      <workItem from="1605565093458" duration="14000" />
+      <workItem from="1605565197007" duration="608000" />
+      <workItem from="1605569302130" duration="599000" />
+      <workItem from="1605651983116" duration="1372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="712" y="329" key="#Images" timestamp="1604529164552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="712" y="329" key="#Images/0.0.1920.1040@0.0.1920.1040" timestamp="1604529164552" />
+    <state x="1066" y="198" key="#Inspections" timestamp="1601935436162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1066" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1601935436162" />
+    <state x="1120" y="259" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602537394895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1120" y="259" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602537394895" />
+    <state x="1170" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600727082810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1170" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600727082810" />
+    <state x="1051" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603748654676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1051" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603748654676" />
+    <state x="1102" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1603748748812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1102" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603748748812" />
+  </component>
+</project>
